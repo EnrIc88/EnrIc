@@ -1,2 +1,1 @@
-# Develot RP
-Updates
+# Updates
